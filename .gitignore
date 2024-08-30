@@ -1,0 +1,92 @@
+# Compiled object files
+*.o
+*.obj
+*.dll
+*.exe
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files (backup, log, etc)
+*.log
+*.bak
+*.orig
+*.tmp
+
+# Debug and Release folders
+bin/
+obj/
+test/bin/
+test/obj/
+.vscode/
+
+# Publish outputs
+out/
+publish/
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Visual Studio specific folders and files
+.vs/
+.idea/
+.ionide/
+*.code-workspace
+.vscode/
+
+# Configuration
+*.config
+*.tmproj
+*.vcxproj
+*.csproj.user
+*.sln.ide
+
+# Node.js files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# DotNet & Nuget packages
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework Core
+*.mdf
+*.ldf
+
+# Rider specific files
+.idea/
+
+# Secrets and sensitive data
+secrets.json
+appsettings.Development.json
+
+# JetBrains Rider
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/shelf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Resharper files
+_ReSharper*/
